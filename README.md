@@ -8,6 +8,14 @@ O BioSample Tracker é uma aplicação desenvolvida para cadastro, consulta, atu
 
 O projeto foi inicialmente desenvolvido para gerenciamento de amostras de microalgas e foi estruturado para futura expansão para diferentes categorias de materiais biológicos e biotecnológicos, incluindo extratos de compostos bioativos, proteínas, enzimas, DNA e RNA.
 
+## 🖥️ Demonstração
+
+### Dashboard
+
+O dashboard apresenta uma visão geral das amostras cadastradas, incluindo o número total de amostras, organismos registrados e diferentes status de processamento.
+
+![Dashboard do BioSample Tracker](screenshots/dashboard.png)
+
 ## ✨ Funcionalidades
 
 - Cadastro de amostras biológicas
