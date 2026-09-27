@@ -16,6 +16,24 @@ O dashboard apresenta uma visão geral das amostras cadastradas, incluindo o nú
 
 ![Dashboard do BioSample Tracker](screenshots/dashboard.png)
 
+### Cadastro de amostras
+
+A interface de cadastro permite registrar novas amostras biológicas com identificação, organismo ou espécie, tipo de amostra, experimento, condição de armazenamento e status.
+
+![Cadastro de amostras](screenshots/cadastro.png)
+
+### Consulta e filtros
+
+As amostras cadastradas podem ser consultadas por ID ou organismo e filtradas por tipo de amostra e status.
+
+![Consulta de amostras](screenshots/amostras.png)
+
+### Gerenciamento
+
+O módulo de gerenciamento permite localizar registros existentes, atualizar informações e excluir amostras do banco de dados.
+
+![Gerenciamento de amostras](screenshots/gerenciamento.png)
+
 ## ✨ Funcionalidades
 
 - Cadastro de amostras biológicas
